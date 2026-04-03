@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Caos en sistemas biológicos
+message: >-
+  Gemelos Digitales / Ingeniería Biomédica / Tecnológico  
+  Nacional de México
+type: software
+authors:
+  - given-names: DARÍO ANTONIO
+    family-names: MARTÍNEZ CAMARENA
+    email: L21210684@TECTIJUANA.EDU.MX
+    affiliation: Tecnológico Nacional de México
+repository-code: 'https://github.com/Dario-Mtz/Pr-ctica2GD'
+keywords:
+  - Sistema no lineal
+  - Caos
+  - Estabilidad
+  - Simulaciones numéricas
+  - Cáncer e inmunoterapia
+license: BSD-2-Clause
+version: '1.0'
